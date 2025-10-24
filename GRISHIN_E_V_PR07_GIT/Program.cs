@@ -16,7 +16,7 @@ namespace GRISHIN_E_V_PR07_GIT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormLogin());
         }
     }
 }
